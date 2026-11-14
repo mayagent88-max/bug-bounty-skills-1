@@ -1,0 +1,5 @@
+name: check_minimum_before_send
+title: Check minimums before any transfer
+description: Check the minimum deposit, withdrawal, and order size from the official source before any transfer or trade, so funds are never sent below a minimum.
+category: Finance
+include_in_prompt: false

@@ -1,0 +1,5 @@
+name: "chromium_control"
+title: "Chromium Control"
+description: "Drive pure open-source Chromium (not Google Chrome) on this VM with Playwright: launch, navigate, click, fill forms, screenshot, and run the Playwright MCP server. Use when a task needs a real browser Maya controls herself."
+category: "Work and knowledge"
+include_in_prompt: false

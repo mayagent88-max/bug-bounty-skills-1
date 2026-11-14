@@ -1,0 +1,5 @@
+name: "bb-boss-workflow"
+title: "Bug Bounty 8-Phase Workflow"
+description: "Run a bug bounty hunt in 8 phases, from scope and recon to a validated report, only on in-scope targets."
+category: "Work and knowledge"
+include_in_prompt: false
