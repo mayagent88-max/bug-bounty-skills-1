@@ -1,3 +1,7 @@
+---
+name: bug-bounty-burp-guide
+description: "Bug-Bounty-Burp-Guide - Burp Suite 使用指南"
+---
 # Bug-Bounty-Burp-Guide - Burp Suite 使用指南
 
 **来源**: Bug Bounty 课程学习提取

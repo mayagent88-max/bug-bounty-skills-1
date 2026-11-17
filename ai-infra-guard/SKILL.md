@@ -1,4 +1,8 @@
-﻿---
+---
+name: ai-infra-guard
+description: "Tencent AI-Infra-Guard (A.I.G) — Operaciones de Auditoría de IA y MCP"
+---
+---
 name: ai-infra-guard
 description: Audita y evalúa la seguridad de servidores MCP, Agent Skills, infraestructuras de IA (Ollama, vLLM, ComfyUI) y modelos LLM frente a jailbreaks usando la suite oficial AI-Infra-Guard (A.I.G) de Tencent Zhuque Lab. Usar cuando el usuario pida auditar un servidor MCP, escanear skills de agentes, buscar vulnerabilidades en endpoints de IA o realizar AI Red Teaming.
 ---

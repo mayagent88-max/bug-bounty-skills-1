@@ -1,3 +1,7 @@
+---
+name: bug-bounty-sqli-helper
+description: "Bug-Bounty-SQLi-Helper - SQL 注入助手"
+---
 # Bug-Bounty-SQLi-Helper - SQL 注入助手
 
 **来源**: Bug Bounty 课程学习提取

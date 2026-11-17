@@ -1,3 +1,7 @@
+---
+name: bug-bounty-xss-helper
+description: "Bug-Bounty-XSS-Helper - XSS Payload 生成与解释"
+---
 # Bug-Bounty-XSS-Helper - XSS Payload 生成与解释
 
 **来源**: Bug Bounty 课程学习提取

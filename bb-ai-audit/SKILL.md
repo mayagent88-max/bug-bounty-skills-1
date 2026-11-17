@@ -1,6 +1,6 @@
 ---
 name: bb-ai-audit
-description: Use when auditing an AI / LLM / agentic / MCP product — prompt injection (direct and indirect), system-prompt extraction, AI memory / skills / history endpoints, MCP server security, insecure output handling, tool-calling over-agency. This is the AI-SPECIFIC audit PROCEDURE (platform layer before model layer → 3-layer Impact Gate → OWASP LLM Top 10 mapping), distinct from generic bb-exploit-chain / bb-attack-chain-review. Triggers: AI / LLM / prompt injection / jailbreak / MCP / agent / RAG / AI SaaS / system prompt.
+description: "Use when auditing an AI / LLM / agentic / MCP product — prompt injection (direct and indirect), system-prompt extraction, AI memory / skills / history endpoints, MCP server security, insecure output handling, tool-calling over-agency. This is the AI-SPECIFIC audit PROCEDURE (platform layer before model layer → 3-layer Impact Gate → OWASP LLM Top 10 mapping), distinct from generic bb-exploit-chain / bb-attack-chain-review. Triggers: AI / LLM / prompt injection / jailbreak / MCP / agent / RAG / AI SaaS / system prompt."
 ---
 
 # Bug Bounty — AI / LLM / Agentic Audit (AI-product-specific procedure)

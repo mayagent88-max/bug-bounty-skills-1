@@ -1,3 +1,7 @@
+---
+name: bug-bounty-writeup-helper
+description: "Bug-Bounty-Writeup-Helper - CTF Writeup 助手"
+---
 # Bug-Bounty-Writeup-Helper - CTF Writeup 助手
 
 **来源**: Bug Bounty 课程学习提取

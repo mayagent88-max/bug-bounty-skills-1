@@ -1,6 +1,6 @@
 ---
 name: bb-electron-audit
-description: Use when auditing an Electron / desktop app statically — asar extraction, shell.openExternal, preload / contextBridge, contextIsolation, custom scheme handler, IPC senderFrame. This is the ELECTRON-SPECIFIC audit PROCEDURE (10-min grading → 3-tier defense classification → delivery-chain gate), distinct from generic bb-exploit-chain / bb-attack-chain-review. Triggers: Electron / asar / shell.openExternal / preload / contextIsolation / desktop app static audit.
+description: "Use when auditing an Electron / desktop app statically — asar extraction, shell.openExternal, preload / contextBridge, contextIsolation, custom scheme handler, IPC senderFrame. This is the ELECTRON-SPECIFIC audit PROCEDURE (10-min grading → 3-tier defense classification → delivery-chain gate), distinct from generic bb-exploit-chain / bb-attack-chain-review. Triggers: Electron / asar / shell.openExternal / preload / contextIsolation / desktop app static audit."
 ---
 
 # Bug Bounty — Electron Static Audit (desktop-app-specific procedure)

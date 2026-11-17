@@ -1,6 +1,6 @@
 ---
 name: bb-multi-search
-description: Use when mid-hunt and need quick ad-hoc research — fans out 4-6 query variations across security sources (NVD, H1, PortSwigger, exploit-db, GitHub) via parallel subagents, deduplicates, and returns a synthesized briefing. Local only, no third-party search API. Triggers: "research this", "any writeups for", "search for", "look this up", "is there prior art".
+description: "Use when mid-hunt and need quick ad-hoc research — fans out 4-6 query variations across security sources (NVD, H1, PortSwigger, exploit-db, GitHub) via parallel subagents, deduplicates, and returns a synthesized briefing. Local only, no third-party search API. Triggers: \"research this\", \"any writeups for\", \"search for\", \"look this up\", \"is there prior art\"."
 ---
 
 # bb-multi-search — Parallel Multi-Source Security Search

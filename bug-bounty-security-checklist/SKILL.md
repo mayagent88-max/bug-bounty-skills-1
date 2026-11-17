@@ -1,3 +1,7 @@
+---
+name: bug-bounty-security-checklist
+description: "Bug-Bounty-Security-Checklist - 安全检查清单技能"
+---
 # Bug-Bounty-Security-Checklist - 安全检查清单技能
 
 **来源**: Bug Bounty 课程学习提取

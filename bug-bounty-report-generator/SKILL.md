@@ -1,3 +1,7 @@
+---
+name: bug-bounty-report-generator
+description: "Bug-Bounty-Report-Generator - 漏洞报告生成技能"
+---
 # Bug-Bounty-Report-Generator - 漏洞报告生成技能
 
 **来源**: Bug Bounty 课程学习提取

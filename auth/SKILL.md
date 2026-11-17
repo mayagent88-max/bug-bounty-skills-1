@@ -1,3 +1,7 @@
+---
+name: auth
+description: "Auth"
+---
 # Auth
 
 ## Overview

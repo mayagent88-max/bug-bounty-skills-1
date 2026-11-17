@@ -1,3 +1,7 @@
+---
+name: check_minimum_before_send
+description: "Check minimums before any transfer"
+---
 # Check minimums before any transfer
 
 ## Check all three minimums

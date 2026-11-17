@@ -1,3 +1,7 @@
+---
+name: claude-skills-adpwner
+description: "SKILL: Active Directory Red Team — ACL Abuse, Delegation, ADCS & Windows Privilege Escalation"
+---
 # SKILL: Active Directory Red Team — ACL Abuse, Delegation, ADCS & Windows Privilege Escalation
 
 ## Metadata

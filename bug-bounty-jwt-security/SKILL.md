@@ -1,6 +1,6 @@
 ---
 name: bug-bounty-jwt-security
-description: Auditoría de seguridad en JSON Web Tokens (JWT). Diagnóstico de omisión de firma (alg: none), inyección de claves públicas (JKU/JWKS), confusión de clave simétrica/asimétrica (HMAC vs RSA) y ataques de kid injection.
+description: "Auditoría de seguridad en JSON Web Tokens (JWT). Diagnóstico de omisión de firma (alg: none), inyección de claves públicas (JKU/JWKS), confusión de clave simétrica/asimétrica (HMAC vs RSA) y ataques de kid injection."
 ---
 
 # Skill: JSON Web Token (JWT) Security Assessment

@@ -1,3 +1,7 @@
+---
+name: bb-web
+description: "bb-web — Client-Side & HTTP-Hygiene Testing Reference"
+---
 # bb-web — Client-Side & HTTP-Hygiene Testing Reference
 
 Companion to `bb-ops/playbooks/{xss,xss-dalfox,dom-xss,cors,open-redirect,config-review,csrf,file-upload,http-smuggling,cache-poison,host-header}.yaml`.

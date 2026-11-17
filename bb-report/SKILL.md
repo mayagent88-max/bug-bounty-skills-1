@@ -1,3 +1,7 @@
+---
+name: bb-report
+description: "bb-report — Reporting Discipline"
+---
 # bb-report — Reporting Discipline
 
 Companion to assessor + reporter roles.

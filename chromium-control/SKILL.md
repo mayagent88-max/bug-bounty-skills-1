@@ -1,3 +1,7 @@
+---
+name: chromium-control
+description: "Chromium Control"
+---
 # Chromium Control
 
 Drive pure open-source Chromium on this VM with Playwright. Never use Google Chrome for this. The Google Chrome product (`google-chrome-stable`) is a different browser and the user does not want it. Chromium here means the unbranded open-source build whose `--version` prints `Chromium 159.0.8153.0` with no Google in the name.

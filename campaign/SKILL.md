@@ -1,3 +1,7 @@
+---
+name: campaign
+description: "Campaign — Autonomous End-to-End Bug Bounty Run"
+---
 # Campaign — Autonomous End-to-End Bug Bounty Run
 
 ## Overview

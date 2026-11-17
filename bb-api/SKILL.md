@@ -1,3 +1,7 @@
+---
+name: bb-api
+description: "bb-api — API & GraphQL Testing Reference"
+---
 # bb-api — API & GraphQL Testing Reference
 
 Companion to `bb-ops/playbooks/{graphql,websocket}.yaml` + api-analyzer role.

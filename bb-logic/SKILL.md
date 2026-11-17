@@ -1,3 +1,7 @@
+---
+name: bb-logic
+description: "bb-logic — Business-Logic & Race Testing Reference"
+---
 # bb-logic — Business-Logic & Race Testing Reference
 
 Companion to `bb-ops/playbooks/{business-logic,race-condition}.yaml`.

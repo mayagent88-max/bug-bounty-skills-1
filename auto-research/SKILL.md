@@ -1,3 +1,7 @@
+---
+name: auto-research
+description: "Auto Research"
+---
 # Auto Research
 
 ## Overview

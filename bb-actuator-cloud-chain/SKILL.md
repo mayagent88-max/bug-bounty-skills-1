@@ -1,6 +1,6 @@
 ---
 name: bb-actuator-cloud-chain
-description: Use when auditing exposed Spring Boot management endpoints (Actuator / Eureka / Jolokia / Nacos) for config/credential disclosure and, in cloud deployments, cloud-metadata reachability — the management-endpoint → config → cloud-metadata AUDIT chain (detect, validate, severity, writeup), distinct from generic SSRF and from batch debug-endpoint scanning. Triggers: actuator / X-Application-Context / eureka / nacos / jolokia / gateway routes / spring boot / cloud metadata / heapdump.
+description: "Use when auditing exposed Spring Boot management endpoints (Actuator / Eureka / Jolokia / Nacos) for config/credential disclosure and, in cloud deployments, cloud-metadata reachability — the management-endpoint → config → cloud-metadata AUDIT chain (detect, validate, severity, writeup), distinct from generic SSRF and from batch debug-endpoint scanning. Triggers: actuator / X-Application-Context / eureka / nacos / jolokia / gateway routes / spring boot / cloud metadata / heapdump."
 ---
 
 # Bug Bounty — Actuator/Nacos/Eureka → Cloud-Metadata Chain Audit

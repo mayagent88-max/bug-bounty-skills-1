@@ -1,3 +1,7 @@
+---
+name: cross-account
+description: "Cross-Account Authorization Testing"
+---
 # Cross-Account Authorization Testing
 
 ## Overview

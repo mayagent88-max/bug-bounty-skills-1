@@ -1,3 +1,7 @@
+---
+name: bug-bounty-learning-guide
+description: "Bug-Bounty-Learning-Guide - 安全学习指南技能"
+---
 # Bug-Bounty-Learning-Guide - 安全学习指南技能
 
 **来源**: Bug Bounty 课程学习提取

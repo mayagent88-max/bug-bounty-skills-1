@@ -1,6 +1,6 @@
 ---
 name: bb-dedup-finding
-description: Use when opening a new Finding or FORM, checking duplicate likelihood, deciding whether to merge reports, handling same endpoint/different user evidence, or user says "wasn't this already found" / "same vulnerability" / "should I merge". Triggers: wasn't this already found / same vulnerability / should I merge
+description: "Use when opening a new Finding or FORM, checking duplicate likelihood, deciding whether to merge reports, handling same endpoint/different user evidence, or user says \"wasn't this already found\" / \"same vulnerability\" / \"should I merge\". Triggers: wasn't this already found / same vulnerability / should I merge"
 ---
 
 # Bug Bounty — Duplicate Finding Determination (§3f Rules + 6 Steps)

@@ -1,3 +1,7 @@
+---
+name: agent-safety
+description: "Agent Safety"
+---
 # Agent Safety
 
 ## Overview

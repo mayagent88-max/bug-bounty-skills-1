@@ -1,3 +1,7 @@
+---
+name: bug-bounty-code-review
+description: "Bug-Bounty-Code-Review - 代码安全审查技能"
+---
 # Bug-Bounty-Code-Review - 代码安全审查技能
 
 **来源**: Bug Bounty 课程学习提取

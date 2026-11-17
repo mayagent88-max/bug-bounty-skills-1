@@ -1,6 +1,6 @@
 ---
 name: bb-bucket-ownership
-description: Use when a LISTABLE / publicly-accessible cloud bucket (S3 / GCS / Azure Blob / CDN origin) is found — BEFORE attributing it to the target or opening a Finding/Submission. LISTABLE does not equal owned-by-target; verify content-based ownership to avoid false attribution to a third party / CDN / shared bucket. Triggers: LISTABLE bucket / public S3 / GCS bucket / azure blob / bucket ACL misconfig / scanner reports bucket.
+description: "Use when a LISTABLE / publicly-accessible cloud bucket (S3 / GCS / Azure Blob / CDN origin) is found — BEFORE attributing it to the target or opening a Finding/Submission. LISTABLE does not equal owned-by-target; verify content-based ownership to avoid false attribution to a third party / CDN / shared bucket. Triggers: LISTABLE bucket / public S3 / GCS bucket / azure blob / bucket ACL misconfig / scanner reports bucket."
 ---
 
 # Bug Bounty — Cloud Bucket Ownership Verification Gate

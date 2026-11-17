@@ -1,3 +1,7 @@
+---
+name: bug-bounty-recon
+description: "Bug-Bounty-Recon - 信息收集自动化指南"
+---
 # Bug-Bounty-Recon - 信息收集自动化指南
 
 **来源**: Bug Bounty 课程学习提取

@@ -1,3 +1,7 @@
+---
+name: bb-recon
+description: "bb-recon — Discovery Methodology & Tool Commands"
+---
 # bb-recon — Discovery Methodology & Tool Commands
 
 Scope: passive + low-noise active recon against in-scope web targets. Load this skill

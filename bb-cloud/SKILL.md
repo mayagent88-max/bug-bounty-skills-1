@@ -1,3 +1,7 @@
+---
+name: bb-cloud
+description: "bb-cloud — Web-Reachable Cloud/Container Testing Reference"
+---
 # bb-cloud — Web-Reachable Cloud/Container Testing Reference
 
 Companion to `bb-ops/playbooks/{ssrf,cloud-imds,config-review,secret-discovery,springboot}.yaml`.

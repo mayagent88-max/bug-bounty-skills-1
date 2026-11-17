@@ -1,6 +1,6 @@
 ---
 name: bb-gap-research
-description: Use when filling a knowledge gap from the Learning Backlog — user says "fill gap", "research the backlog", "research gaps", or picks an open gap to turn into a playbook. Trigger-based (NOT autonomous): you dispatch parallel research subagents, write playbooks, and mark the backlog status table.
+description: "Use when filling a knowledge gap from the Learning Backlog — user says \"fill gap\", \"research the backlog\", \"research gaps\", or picks an open gap to turn into a playbook. Trigger-based (NOT autonomous): you dispatch parallel research subagents, write playbooks, and mark the backlog status table."
 ---
 
 # Bug Bounty — Gap Research (Triggered Knowledge Gap Filling)

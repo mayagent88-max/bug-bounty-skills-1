@@ -1,3 +1,7 @@
+---
+name: bb-authz
+description: "bb-authz — AuthN/AuthZ Testing Reference"
+---
 # bb-authz — AuthN/AuthZ Testing Reference
 
 Companion to `bb-ops/playbooks/{idor,broken-access-control,jwt,oauth,auth-bypass}.yaml`.

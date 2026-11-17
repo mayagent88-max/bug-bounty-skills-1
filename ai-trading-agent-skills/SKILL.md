@@ -1,3 +1,7 @@
+---
+name: ai-trading-agent-skills
+description: "AI trading-agent skills — 7 Binance AI Agent Skills, Maya's way"
+---
 # AI trading-agent skills — 7 Binance AI Agent Skills, Maya's way
 
 Source: Binance Square post by FEY60, "7 Skill AI yang Bisa Mengubah Cara Trader Crypto Bekerja" (published 2026-03-12) — https://www.binance.com/id/square/post/300583138895570. Madi asked Maya to learn it, 9 Nov 2026.

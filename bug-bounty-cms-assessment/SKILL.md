@@ -1,6 +1,6 @@
 ---
 name: bug-bounty-cms-assessment
-description: Auditoría de seguridad en gestores de contenido (CMS: WordPress, Drupal, Joomla, Magento). Identificación de plugins y temas vulnerables, enumeración de usuarios y configuraciones desactualizadas.
+description: "Auditoría de seguridad en gestores de contenido (CMS: WordPress, Drupal, Joomla, Magento). Identificación de plugins y temas vulnerables, enumeración de usuarios y configuraciones desactualizadas."
 ---
 
 # Skill: Content Management System (CMS) Security Assessment

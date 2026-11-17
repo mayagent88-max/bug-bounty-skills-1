@@ -1,3 +1,7 @@
+---
+name: binary-analysis
+description: "Binary Analysis"
+---
 # Binary Analysis
 
 ## Overview

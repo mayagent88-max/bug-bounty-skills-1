@@ -1,3 +1,7 @@
+---
+name: bb-injection
+description: "bb-injection — Injection Testing Reference"
+---
 # bb-injection — Injection Testing Reference
 
 Companion to `bb-ops/playbooks/{sqli,nosqli,cmdi,ssti,lfi,xxe,deserialization,rce}.yaml`.

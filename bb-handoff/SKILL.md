@@ -1,3 +1,7 @@
+---
+name: bb-handoff
+description: "bb-handoff — Manual-Test Task Crafting"
+---
 # bb-handoff — Manual-Test Task Crafting
 
 Companion to the handoff agent. These are the rules for writing tasks the human will

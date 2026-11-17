@@ -1,6 +1,6 @@
 ---
 name: bb-firmware-audit
-description: Use when analyzing router / IoT / camera firmware or an embedded binary — after bb-version-cve-precheck, to run the unpack → triage → grep-hunt → graded-report session with explicit stop-loss and quality gates. Triggers: firmware / binwalk / squashfs / CGI command injection / router / IoT firmware / default creds / authorized_keys backdoor.
+description: "Use when analyzing router / IoT / camera firmware or an embedded binary — after bb-version-cve-precheck, to run the unpack → triage → grep-hunt → graded-report session with explicit stop-loss and quality gates. Triggers: firmware / binwalk / squashfs / CGI command injection / router / IoT firmware / default creds / authorized_keys backdoor."
 ---
 
 # Bug Bounty — Firmware Audit (firmware session lifecycle)

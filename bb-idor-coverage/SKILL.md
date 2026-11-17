@@ -1,6 +1,6 @@
 ---
 name: bb-idor-coverage
-description: Use when an IDOR is found or being tested — BEFORE marking it complete for a resource type — to enforce the full HTTP verb / coverage matrix (read AND write: GET + POST/PUT/PATCH/DELETE, object-ID variants, cross-tenant) so testing does not stop at GET and miss higher-severity write-path IDOR. The coverage / stop-condition GATE; complements (not replaces) the idor-broken-object-authorization technique skill. Triggers: IDOR / resource ID / object reference / before closing IDOR test.
+description: "Use when an IDOR is found or being tested — BEFORE marking it complete for a resource type — to enforce the full HTTP verb / coverage matrix (read AND write: GET + POST/PUT/PATCH/DELETE, object-ID variants, cross-tenant) so testing does not stop at GET and miss higher-severity write-path IDOR. The coverage / stop-condition GATE; complements (not replaces) the idor-broken-object-authorization technique skill. Triggers: IDOR / resource ID / object reference / before closing IDOR test."
 ---
 
 # Bug Bounty — IDOR Coverage Matrix (Full Verb Stop-Condition Gate)

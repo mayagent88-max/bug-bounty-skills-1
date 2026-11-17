@@ -1,3 +1,7 @@
+---
+name: bb-verify
+description: "bb-verify — Candidate Triage & Evidence Discipline"
+---
 # bb-verify — Candidate Triage & Evidence Discipline
 
 Companion to verifier + bypass-researcher roles.

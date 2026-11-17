@@ -1,3 +1,7 @@
+---
+name: bb-boss-workflow
+description: "Bug Bounty 8-Phase Workflow"
+---
 # Bug Bounty 8-Phase Workflow
 
 Use this skill when the user asks you to work a bug bounty program, such as a YesWeHack, HackerOne or Immunefi program. Work the phases in order and stop when a phase shows the target is out of scope, untestable or not worth a report.

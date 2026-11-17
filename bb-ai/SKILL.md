@@ -1,3 +1,7 @@
+---
+name: bb-ai
+description: "bb-ai — AI/LLM Security Testing Reference"
+---
 # bb-ai — AI/LLM Security Testing Reference
 
 Companion to `bb-ops/playbooks/{prompt-injection,indirect-prompt-injection}.yaml`.
